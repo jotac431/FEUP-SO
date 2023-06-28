@@ -1,2 +1,2 @@
 # FEUP - Operative Systems
-Pratic Exercises and Group Project
+Pratical Exercises and Group Project
