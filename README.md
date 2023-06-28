@@ -1,1 +1,2 @@
-# feup-SO-2022
+# FEUP - Operative Systems
+Pratic Exercises and Group Project
